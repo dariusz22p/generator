@@ -1,0 +1,15 @@
+https://portail-sidep.aphp.fr/
+
+La carte CPS ou Carte de Professionnel de Santé est une carte d’identité professionnelle électronique dédiée aux secteurs de la santé et du médico-social. Elle permet à son titulaire d’attester de son identité et de ses qualifications professionnelles. Elle contient les données d’identification de son porteur : 
+
+    Identité (n° d’identification, nom patronymique, nom d’exercice…)
+    Profession
+    Spécialité
+    Identification du mode d’exercice 
+    Identification du lieu d’exercice
+
+A cet effet, la carte CPS contient les « certificats » électroniques d’authentification et de signature du porteur.
+Un certificat est un fichier informatique contenant les informations sur son propriétaire et certifié par un tiers de 
+confiance. L’Agence du Numérique en Santé est le tiers de confiance sur le secteur de santé. Elle délivre les 
+certificats au travers de son Infrastructure de Gestion de Clés (IGC), 
+dans le respect de ses Politiques de Certification (PC). En savoir plus sur les politiques de certification.

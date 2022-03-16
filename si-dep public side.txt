@@ -1,0 +1,63 @@
+Pour plus d'information sur l'épidémie, vous pouvez consulter le site du gouvernement: 
+https://www.gouvernement.fr/info-coronavirus et, en particulier pour obtenir des conseils https://mesconseilscovid.sante.gouv.fr . 
+Pour télécharger TousAnticovid : https://bonjour.tousanticovid.gouv.fr 
+
+sidep.gouv.fr
+
+------------------------------------------------------------------------------- 
+Ce courriel a été généré automatiquement par le système d'information SI-DEP . 
+Ce système, géré par le ministère des Solidarités et de la Santé est mis en oeuvre par
+ l'Assistance Publique - Hôpitaux de Paris (AP-HP). Le résultat de votre examen de biologie
+ médicale y a été référencé pour mieux lutter contre l'épidémie de COVID-19. Il sert par
+ exemple aux enquêteurs sanitaires, ainsi que pour assurer un suivi épidémiologique fiable, 
+dont vous pouvez voir certains résultats sur ce site : https://geodes.santepubliquefrance.fr/. 
+Ce certificat vous permet également d'attester de votre résultat auprès des autorités.
+
+
+Date 	Référence 	Médecin 	Rapporté par 	  		
+21/01/2022 	‍643e62a7-156d-4c39-ac5e-4e2ac899aafb 	[SCP_ORDOCLIC: PRESC_ORDOCLIC] 	ADELI_316891423_PROF_Infirmier_CP_31100 	
+		
+Cacher mon certificat de test
+Vous avez été testé(e) pour la COVID-19 le 21/01/2022 11:37 dont le résultat est négatif.
+Vous avez la possibilité de :
+
+1. Télécharger votre certificat de test sur votre appareil en cliquant sur le bouton «Télécharger mon document »
+
+2. Importer votre certificat de test dans TousAntiCovid :
+             • Si vous utilisez votre téléphone mobile, en cliquant sur le bouton « Importer dans TousAntiCovid ».
+
+Ou
+             •Si vous utilisez votre ordinateur en scannant le QR Code ci-contre depuis votre application mobile TousAntiCovid.
+La régénération du certificat de test est à réaliser uniquement en cas d'invalidité du certificat.
+Vous pouvez retrouver ici votre certificat de test,
+positif pendant 6 mois, négatif pendant 8 jours,
+à compter de la date de prélèvement de votre test.
+
+
+04/01/2022 	‍310023809_220104OO0170 	BIOCOVID Prescripteur 	310023809 	
+		
+Cacher mon certificat de test
+Vous avez été testé(e) pour la COVID-19 le 04/01/2022 14:45 dont le résultat est positif.
+
+Veuillez suivre les règles d' isolement suivantes :
+
+
+1. Si schéma vaccinal complet ou si enfant de moins de 12 ans*, l’isolement est de 7 jours (pleins). Au bout de 5 jours, sortie possible de l’isolement à deux conditions ; un test antigénique négatif, et plus de signes cliniques d’infection depuis 48h. Si le test réalisé est positif ou absence de test, isolement maintenu à 7 jours.
+
+2. Si schéma vaccinal incomplet ou si personne non vaccinée, l’isolement est de 10 jours (pleins). Au bout de 7 jours, sortie possible de l’isolement à deux conditions ; un test antigénique ou RT-PCR négatif, et plus de signes cliniques d’infection depuis 48h. Si le test réalisé est positif ou absence de test, isolement maintenu à 10 jours.
+
+*Pour les enfants de moins de 3 ans, se référer au protocole des Etablissements d'Accueil du Jeune Enfant.
+Vous avez la possibilité de :
+
+1. Télécharger votre certificat de test sur votre appareil en cliquant sur le bouton «Télécharger mon document »
+
+2. Importer votre certificat de test dans TousAntiCovid :
+             • Si vous utilisez votre téléphone mobile, en cliquant sur le bouton « Importer dans TousAntiCovid ».
+
+Ou
+             •Si vous utilisez votre ordinateur en scannant le QR Code ci-contre depuis votre application mobile TousAntiCovid.
+La régénération du certificat de test est à réaliser uniquement en cas d'invalidité du certificat.
+Vous pouvez retrouver ici votre certificat de test,
+positif pendant 6 mois, négatif pendant 8 jours,
+à compter de la date de prélèvement de votre test.
+

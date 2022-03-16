@@ -1,0 +1,98 @@
+Certificat covid
+seul les certificats offciels (2dDoc) donné par l'assurance maladie dans le cas d'une dose de vaccin administrée 
+ou par SI-DEP (hopitaux de paris) dans le cas d'un test positif ou négatif
+
+d'autres certificat peuvent être donnés par des organismes privé pour seulement attester que le test à été effetué et du résultat
+
+surement pas les mêmes signatures
+
+signature différente en fonction d'un vaccin ou d'un test pcr ou d'un test antigénique ?
+
+signature différente en fonction d'un test positif ou négatif ?
+
+dans la logique même pas besoin d'avoir la signature de la CA principale, juste besoin d'avoir l'outil qu'utilise les infirmiers/agents de clinique apparement pour faire appel et envoyer la demande de déclaration de test positif
+
+infirmier utilise un lecteur de carte lambda pour lire la carte vitale, possibilité d'écrire un malware sur carte vitale pour utiliser faille sur lecteur carte puis sur ordi quand il le connecte pour mettre à jour les données du terminal ?
+
+en tout cas la demande de base pour certificat privé se fait via son tel et demande oficiel de si dep se fait surement via son ordi
+
+clé usb infecté laché pour qu'il la connecte ?
+
+logiciel pour faire demande si-dep ou interface web via compte officiel donné par le gouv ?
+
+retourner sur si dep pour comprendre les id et autres infos
+
+voir site orgo privé clicodoc jsp quoi pour avoir infos en + sur leurs cert
+  
+voir les git hub pour tracer les version des protocoles et comprendre les cert
+
+quand on scan plusieurs fois le même certificat, dans tousanticovid, le qr code est différent à chaque fois, 
+génération avec du bruit ? le masque change t'il ? ou c'est le cryptage qui change ? voir si c'est les mêmes infos dans chaque sr code (voir vaccin)
+
+vu sur https://bonjour.tousanticovid.gouv.fr/privacy.html ce qui signifie surement que seul les anciens vaccin en 2ddoc/datamatrix sont valides, 
+et que surement que les nouveaux test sont obligatoirement en qr code (25/01/2022)
+8° La conversion des certificats 2D-DOC de vaccination et de tests négatifs/positifs à la Covid-19 en certificat COVID numérique de l’UE ; 
+
+Données d’identification (communes aux preuves vaccinales, tests de dépistage, de rétablissement à la Covid-19 et de contre-indication à la vaccination) :
+
+    Liste des prénoms
+    Nom de famille
+    Date de naissance
+
+Certificat de vaccination :
+
+    Date du dernier état du cycle de vaccination (date de vaccination)
+    Rang du dernier état de vaccination effectué
+    Nombre de doses attendues pour un cycle complet
+    Nom de la maladie couverte
+    Agent prophylactique
+    Nom du vaccin
+    Fabriquant
+
+Test de dépistage :
+
+    Date et heure du prélèvement
+    Résultat du test
+    Type de test
+    Nom de la maladie couverte
+    Nom du test
+    Appareil de test & Fabriquant
+    Centre de test
+
+Rétablissement :
+
+    Date du premier prélèvement positif
+    Date de début de validité
+    Date de fin de validité
+    Nom de la maladie couverte
+
+Données relatives au certificat de signature numérique (commun aux preuves vaccinales et tests) :
+
+    Pays
+    Autorité de certification
+    Date de fin de validité
+    Identifiant du certificat
+
+Pour la conservation du certificat de vaccination, de tests négatifs/positifs à la Covid-19, de rétablissement à la Covid-19, de contre-indication à la vaccination,
+les informations sont traitées localement, sur le téléphone de l’utilisateur, et ne font l’objet d’aucun transfert.
+
+Pour la notification à l’éligibilité au rappel vaccinal ou à l’expiration du pass sanitaire (dans le cadre du pass activité sur le territoire français),
+ les informations sont traitées localement, sur le téléphone de l’utilisateur, et ne font l’objet d’aucun transfert.
+
+Pour la lutte contre l’utilisation frauduleuse des pass sanitaires, les informations sont traitées localement, sur le téléphone de l’utilisateur, et ne font l’objet d’aucun transfert. Ce traitement local repose sur la confrontation d'une empreinte (hash) du certificat à ceux d’une base de référence hébergée par Inria, 
+préalablement téléchargée dans l’application mobile.
+
+Aucune donnée à caractère personnel (photo ou vidéo lui appartenant) n’est stockée ou transmise par TousAntiCovid (quand on prend une photo), seul le contenu du QR Code est utilisé dans le cadre de l’application.
+
+Pour la lutte contre l’utilisation frauduleuse des pass sanitaires :
+Inria en tant que sous-traitant de la Direction générale de la santé du ministère des 
+Solidarités et de la Santé et chargé de mettre à disposition de l’application TousAntiCovid, 
+de TAC Verif ou dispositif tiers, la base de référence des pass sanitaires frauduleux validée par la Direction générale de la santé
+
+
+L’utilisateur peut déclarer, à tout moment, 
+l’usage frauduleux de son pass sanitaire par e-mail en
+écrivant à revocation-pass-sanitaire@sante.gouv.fr et récupérer, après confirmation de sa révocation, 
+son nouveau certificat sur le site https://sidep.gouv.fr ou https://attestation-vaccin.ameli.fr
+ce qui veux dire que il peux être regénérer par sidep ou ameli
+
